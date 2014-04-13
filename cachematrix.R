@@ -2,6 +2,7 @@
 ## functions do
 
 ## Write a short comment describing this function
+# A function that can create a 'matrix' object that is capable of caching its own inverse
 
 makeCacheMatrix <- function(x = matrix()) {
 
